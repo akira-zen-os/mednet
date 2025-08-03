@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402777818753",
+    "project_id": "mednet-worflows",
+    "storage_bucket": "mednet-worflows.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402777818753:android:9969182f4a45ba6a116f80",
+        "android_client_info": {
+          "package_name": "com.example.mednet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOA37nriFmuTP-ABazmZSg1BQght246Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
